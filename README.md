@@ -19,7 +19,7 @@
     Chapter 9: Business Case Study
     Chapter 10: Cloud Application Requirements
     Chapter 11: Data aware Cloud Strategy
-    Chapter 12: 
+    Chapter 12: Network aware Job Scheduling
 ## Part IV: Multi Cloud Strategy and Critical Decision Making
     Chapter 13: Networking in Data Centers
     Chapter 14: Security & Integrations
